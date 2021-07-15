@@ -1,3 +1,3 @@
-### Head
-- 웹사이트
-- python, ruby, html...
+### My Goal
+- 웹사이트 
+- html, css, ruby on rails, pyhton...
